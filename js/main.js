@@ -89,5 +89,3 @@ function updateTime() {
 setInterval(updateTime, 60000);
 updateTime(); // Atualizar imediatamente ao carregar a página
 
-
-

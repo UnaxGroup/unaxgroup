@@ -7,5 +7,3 @@
   =>  Template Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
-
-.
