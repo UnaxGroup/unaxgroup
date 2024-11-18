@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Superaquecimento em rolamentos: como evitar?",
     "descricao": "Os rolamentos industriais são fundamentais para o bom funcionamento de máquinas e equipamentos. No entanto, quando utilizados da forma incorreta, provocam paradas não programadas e prejuízos enormes para as empresas.",
-    "imagem": "blog/post1.png",
+    "imagem": "./blog/post1.png",
     "link": "#"
   },
   {
