@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "Análises em Laboratório",
+    "descricao": "Análise e Filtragem de Diesel, diagnósticos precisos de graxas e lubrificantes.",
+    "imagem": "img/service-1.jpg",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "titulo": "Consultoria Técnica",
+    "descricao": "Consultoria especializada em manutenção de sistemas e equipamentos industriais.",
+    "imagem": "img/service-2.jpg",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "titulo": "Desenvolvimento de Produtos",
+    "descricao": "Desenvolvimento e otimização de produtos para indústrias químicas e petroquímicas.",
+    "imagem": "img/service-3.jpg",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "titulo": "Desenvolvimento de Produtos",
+    "descricao": "Desenvolvimento e otimização de produtos para indústrias químicas e petroquímicas.",
+    "imagem": "img/service-3.jpg",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "titulo": "Desenvolvimento de Produtos",
+    "descricao": "Desenvolvimento e otimização de produtos para indústrias químicas e petroquímicas.",
+    "imagem": "img/service-3.jpg",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "titulo": "Desenvolvimento de Produtos",
+    "descricao": "Desenvolvimento e otimização de produtos para indústrias químicas e petroquímicas.",
+    "imagem": "img/service-3.jpg",
+    "link": "#"
+  }
+]

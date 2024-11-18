@@ -1,0 +1,36 @@
+[
+    {
+      "nome": "Jéssica Chester",
+      "cargo": "Coordenadora Comercial",
+      "telefone": "(22) 99292-1877",
+      "email": "comercial@unax.com.br",
+      "imagem": "img/team-1.jpg",
+      "descricao": "Estamos à disposição para atendê-la e oferecer todo o suporte necessário."
+    },
+    {
+        "nome": "Carlos Paiva",
+        "cargo": "Coordenador Administrativo",
+        "telefone": "(22) 99292-1877",
+        "email": "coordenadoradm@unax.com.br",
+        "imagem": "img/team-1.jpg",
+        "descricao": "Estamos à disposição para atendê-la e oferecer todo o suporte necessário."
+      },
+      {
+        "nome": "Aline Martins",
+        "cargo": "Gestora de Qualidade",
+        "telefone": "(22) 99292-1877",
+        "email": "qualidade@unax.com.br",
+        "imagem": "img/team-1.jpg",
+        "descricao": "Estamos à disposição para atendê-la e oferecer todo o suporte necessário."
+      },
+      {
+        "nome": "Alexandre Linhares",
+        "cargo": "CEO Unax Group",
+        "telefone": "(22) 99292-1877",
+        "email": "alexandre.linhares@unax.com.br",
+        "imagem": "img/team-1.jpg",
+        "descricao": "Estamos à disposição para atendê-la e oferecer todo o suporte necessário."
+      }
+  
+  ]
+  
