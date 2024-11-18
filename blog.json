@@ -4,35 +4,35 @@
     "titulo": "Superaquecimento em rolamentos: como evitar?",
     "descricao": "Os rolamentos industriais são fundamentais para o bom funcionamento de máquinas e equipamentos. No entanto, quando utilizados da forma incorreta, provocam paradas não programadas e prejuízos enormes para as empresas.",
     "imagem": "img/blog/post1.jpg",
-    "link": "#"
+    "link": "./posts/post1"
   },
   {
     "id": 2,
     "titulo": "História dos lubrificantes: as técnicas dos egípcios, gregos e romanos",
     "descricao": "Podemos assumir que é quase impossível precisar quando o primeiro humano pensou em usar algum composto líquido ou pastoso para reduzir o atrito entre peças.",
     "imagem": "img/blog/post2.jpg",
-    "link": "#"
+    "link": "./posts/post2"
   },
   {
     "id": 3,
     "titulo": "Loucura",
     "descricao": "Nos tempos áureos do segmento Oil & Gás brasileiro, assistimos muitas empresas desperdiçarem recursos incalculáveis por vários motivos, um deles, certamente, era a sobra de recursos ﬁnanceiros. Quando se tem muito dinheiro a tendência é ser menos criterioso.",
     "imagem": "img/blog/post3.jpg",
-    "link": "#"
+    "link": "./posts/post3"
   },
   {
     "id": 4,
     "titulo": "Tecnologia 4.0: Monitoramento de fluidos em tempo real",
     "descricao": "É de conhecimento geral que a análise de fluidos é muito importante para uma boa manutenção e por conseguinte um bom funcionamento do maquinário. Além disso, podemos afirmar que a análise de fluidos propicia.",
     "imagem": "img/blog/post4.jpg",
-    "link": "#"
+    "link": "./posts/post4"
   },
   {
     "id": 5,
     "titulo": "Comunicado COVID-19",
     "descricao": "A Unax Offshore é uma empresa que também compartilha da preocupação mundial em minimizar a propagação do vírus COVID-19. Como contribuição.",
     "imagem": "img/blog/post5.jpg",
-    "link": "#"
+    "link": "./posts/post5"
   }
   ,
   {
@@ -40,7 +40,7 @@
     "titulo": "Como remover o verniz de seus ativos?",
     "descricao": "O verniz é um grande inimigo dos sistemas hidráulicos e de lubrificação. Entretanto, a remoção do verniz do equipamento pode ser realizada com a ajuda da Unax Offshore.",
     "imagem": "img/blog/post6.jpg",
-    "link": "#"
+    "link": "./posts/post6"
   }
   ,
   {
@@ -48,7 +48,7 @@
     "titulo": "Problemas no óleo lubrificante? Pode ser Verniz!",
     "descricao": "O Verniz é um contaminante macio e pequeno. Pensa-se que tenha apenas 0,01 mícron de tamanho, aproximadamente. Como contaminante macio e insolúvel, não é claramente definível como líquido ou sólido. De fato, somente a temperatura pode movê-lo de solúvel para insolúvel e vice-versa. Isso dificulta a captura física do verniz por meios mecânicos.",
     "imagem": "img/blog/post7.jpg",
-    "link": "#"
+    "link": "./posts/post7"
   }
   ,
   {
@@ -56,7 +56,7 @@
     "titulo": "Como evitar a formação de Verniz no óleo lubrificante?",
     "descricao": "Como vimos no post Entendendo a formação de Verniz em maquinários (Parte 1), a principal causa do envelhecimento de um óleo lubrificante se define como um processo denominado 'oxidação'. Os subprodutos da degradação oxidativa são solúveis no óleo lubrificante e o processo dá início quando a aditivação antioxidante (ex. fenóis e aminas) sofre depleção a ponto de não mais restringir o fenômeno.",
     "imagem": "img/blog/post8.jpg",
-    "link": "#"
+    "link": "./posts/post8"
   }
   ,
   {
@@ -64,7 +64,7 @@
     "titulo": "Actioil A550: Tratamento multifuncional do Óleo Diesel",
     "descricao": "Não importa a qualidade do diesel. A partir do momento que sai da refinaria e vai para os tanques, o combustível já começa a sofrer degradação, e ao adicionar o biodiesel, esse processo natural se intensifica.  Isso tudo gera o surgimento de microrganismos como bactérias, fungos e leveduras, a oxidação dos combustíveis devido à presença de ar e água nos tanques além do choque térmico causado do retorno do combustível no tanque, formando o que chamamos de borra.",
     "imagem": "img/blog/post9.jpg",
-    "link": "#"
+    "link": "./posts/post9"
   }
   ,
   {
@@ -72,7 +72,7 @@
     "titulo": "LanoPro Brasil: Lubrificantes Biodegradáveis",
     "descricao": "“O investimento nos biolubrificantes está alinhado à necessidade de substituir os óleos minerais por lubrificantes rapidamente biodegradáveis e não tóxicos para os seres humanos e para o meio ambiente.",
     "imagem": "img/blog/post10.jpg",
-    "link": "#"
+    "link": "./posts/post10"
   }
   ,
   {
@@ -80,7 +80,7 @@
     "titulo": "Formação de espuma no óleo lubrificante: O que é isso?",
     "descricao": "A formação de espuma é um problema relativamente comum em sistemas lubrificados a óleo. Por ser um tanto quanto difícil a solução do problema, é essencial a realização de ensaios precisos para se determinar a causa-raiz de sua formação.",
     "imagem": "img/blog/post11.jpg",
-    "link": "#"
+    "link": "./posts/post11"
   }
   ,
   {
@@ -88,7 +88,7 @@
     "titulo": "05 Sugestões práticas para a Manutenção de Equipamentos",
     "descricao": "Manutenções preventivas (regularmente programadas), preditivas ou proativas são vitais no aumento da vida de serviço, eficiência e confiabilidade em maquinários.",
     "imagem": "img/blog/post12.jpg",
-    "link": "#"
+    "link": "./posts/post12"
   }
   ,
   {
@@ -96,7 +96,7 @@
     "titulo": "Entendendo a formação de Verniz em equipamentos (Parte 2)",
     "descricao": " Pode-se afirmar que o verniz em equipamentos age como agente catalítico da elevação do nível de oxidação do óleo lubrificante. Em função da íntima relação existente entre o verniz pré-existente e as novas ligações oxidativas.",
     "imagem": "img/blog/post13.jpg",
-    "link": "#"
+    "link": "./posts/post13"
   }
   ,
   {
@@ -104,7 +104,7 @@
     "titulo": "Entendendo a formação de Verniz em equipamentos (Parte 1)",
     "descricao": "Pode-se afirmar que muitos dos prejuízos que são causados anualmente, direta ou indiretamente, acontecem em função da formação de depósitos em forma de verniz.",
     "imagem": "img/blog/post14.jpg",
-    "link": "#"
+    "link": "./posts/post14"
   }
   ,
   {
@@ -112,7 +112,7 @@
     "titulo": "RS Clare Brasil: Lubrificação de Válvulas",
     "descricao": "A RS Clare é uma empresa inglesa que possui graxas com resistência completa à hidrocarbonetos, que foram desenvolvidas para garantir a integridade de válvulas que trabalham sob grande pressão. Sua alta capacidade de aderência garante confiabilidade e se comporta como poderoso inibidor de corrosão.",
     "imagem": "img/blog/post15.jpg",
-    "link": "#"
+    "link": "./posts/post15"
   }
   ,
   {
@@ -120,7 +120,7 @@
     "titulo": "Um segredo para evitar falhas em equipamentos",
     "descricao": "Tomando-se do pressuposto que as partículas sólidas são os piores contaminantes e responsáveis por 80% das falhas em equipamentos, nós podemos perceber a importância de escolher o melhor filtro hidráulico para manter a concentração de particulado dentro dos níveis aceitáveis.",
     "imagem": "img/blog/post16.jpg",
-    "link": "#"
+    "link": "./posts/post16"
   }
   ,
   {
@@ -128,7 +128,7 @@
     "titulo": "Como melhorar a performance dos equipamentos e mesmo assim reduzir custos?",
     "descricao": "O objetivo de toda empresa é reduzir o tempo de paralisação do maquinário, aumentar a produtividade do equipamento e, consequentemente, reduzir os custos.  A Unax Offshore, têm como missão, “GARANTIR A CONFIABILIDADE, DISPONIBILIDADE E ALTA PERFORMANCE DOS ATIVOS DE SEUS CLIENTES”.",
     "imagem": "img/blog/post17.jpg",
-    "link": "#"
+    "link": "./posts/post17"
   }
   ,
   {
@@ -136,7 +136,7 @@
     "titulo": "Análise de Lubrificantes: Será que é importante?",
     "descricao": "A análise e monitoramento de lubrificntes é a maior responsável por garantir a confiabilidade, disponibilidade e alta performance dos ativos. Assim como nosso corpo precisa monitorar o sangue que por ele percorre, é indispensável analisar periodicamente as condições que o lubrificante se encontra.",
     "imagem": "img/blog/post18.jpg",
-    "link": "#"
+    "link": "./posts/post18"
   }
   ,
   {
@@ -144,7 +144,7 @@
     "titulo": "Alerta ligado - Mistura de óleo sintético e mineral",
     "descricao": "Procurando melhorar a performance do equipamento ou às vezes reduzir os custos, as pessoas acabam misturando diferentes tipos de óleos. Esse hábito não é recomendado, pois acarreta problemas para o equipamento.",
     "imagem": "img/blog/post19.jpg",
-    "link": "#"
+    "link": "./posts/post19"
   }
   ,
   {
@@ -152,7 +152,7 @@
     "titulo": "Gestão de Ativos",
     "descricao": "A Unax Offshore, em meados de 2016, desenvolveu o Projeto CID (Confiabilidade, Integridade e Disponibilidade), alinhado as normas de Gestão de Ativos ISO 55000/55001/55002, IAM – Institute of Asset Management e BS – British Standard PAS 55. Nossas soluções, alinhadas ao Projeto CID, levam para nossos clientes, a melhor estratégia para aplicação da Gestão de Ativos no monitoramento e conservação de seus equipamentos.",
     "imagem": "img/blog/post20.jpg",
-    "link": "#"
+    "link": "./posts/post20"
   }
   ,
   {
@@ -160,7 +160,7 @@
     "titulo": "Desumidificação - Retirando água do óleo",
     "descricao": "Começando da premissa que a água é o segundo pior contaminante para sistemas lubrificados, percebe-se a importância em manter o sistema hidráulico desumidificado (sem água).",
     "imagem": "img/blog/post21.jpg",
-    "link": "#"
+    "link": "./posts/post21"
   }
   ,
   {
@@ -168,57 +168,58 @@
     "titulo": "Um contaminante ainda pior que a água",
     "descricao": "Essa contaminação pode causar aumento da viscosidade, criar emulsão e gel, formar ácido glicólico, falha nos filtros e uma lubrificação pobre.",
     "imagem": "img/blog/post22.jpg",
-    "link": "#"
+    "link": "./posts/post22"
   },
   {
     "id": 23,
     "titulo": "O que é Flushing?",
     "descricao": "Flushing é o termo utilizado para uma determinada modalidade de fluxo de um determinado fluido dentro de uma tubulação.",
     "imagem": "img/blog/post23.jpg",
-    "link": "#"
+    "link": "./posts/post23"
   },
   {
     "id": 24,
     "titulo": "Manutenção Classe Mundial, você sabe o que significa?",
     "descricao": "Com o passar dos anos e com a evolução das máquinas, o homem também evoluiu. Seja na operação, seja na manutenção. Saímos de um processo eminentemente corretivo, remediador para algo que atualmente possa ser forte coadjuvante nos quesitos sustentabilidade e eficiência, estamos na era da Manutenção Classe Mundial.",
     "imagem": "img/blog/post24.jpg",
-    "link": "#"
+    "link": "./posts/post24"
   },
   {
     "id": 25,
     "titulo": "Diesel S500 e S10 - O que você precisa saber",
     "descricao": "O óleo diesel é um combustível fóssil, derivado do petróleo, muito utilizado em motores de caminhões, tratores, furgões, locomotivas, automóveis de passeio, máquinas de grande porte, embarcações FPSO, plataformas, Supply Boats e muitos outros. O Óleo Diesel S500 e S10 são formados basicamente por hidrocarbonetos (composto químico formado por átomos de hidrogênio e carbono). Possui também em sua composição, em pequena quantidade, oxigênio, nitrogênio e enxofre. Enxofre. Guarde bem este nome.",
     "imagem": "img/blog/post25.jpg",
-    "link": "#"
+    "link": "./posts/post25"
   },
   {
     "id": 26,
     "titulo": "OTC - Offshore technology Conference",
     "descricao": "Aconteceu, entre 30 de Abril e 03 de Maio, a OTC - Offshore Technology Conference - e seu principal questionamento foi: O que a experiência do passado nos ajudará nas projeções das transformações do futuro?",
     "imagem": "img/blog/post26.jpg",
-    "link": "#"
+    "link": "./posts/post26"
   },
   {
     "id": 27,
     "titulo": "Engenharia de lubrificação garanta eficiência e melhor desempenho",
     "descricao": "O treinamento em Engenharia de Lubrificação da Unax Offshore, além de abordar questões primordiais da lubrificação, promove uma cultura que eleva a manutenção a ponto estratégico, o que garante excelência em desempenho, melhorando os resultados financeiros do cliente.",
     "imagem": "img/blog/post27.jpg",
-    "link": "#"
+    "link": "./posts/post27"
   },
   {
     "id": 28,
     "titulo": "A conquista da ISO 9001",
     "descricao": "Motivados em estabelecer uma gestão de qualidade que seja perceptível a nosso público alvo, garantindo um alto padrão de desempenho, em 2015, iniciamos os procedimentos para obtenção da ISO 9001 da UNAX Offshore.",
     "imagem": "img/blog/post28.jpg",
-    "link": "#"
+    "link": "./posts/post28"
   },
   {
     "id": 29,
     "titulo": "Ativos offshore informação onshore",
     "descricao": "Esta ferramenta desenvolvida pela UNAX Offshore para análise remota de fluidos é assertiva na redução de custos devido a sua coleta e padronização de dados, assim como na definição dos ensaios mais apropriados para cada tipo de equipamento. Essas ações norteiam rotinas futuras, evitando o desvio de informações que, consequentemente, comprometem os resultados e causam paradas e perdas dos equipamentos.",
     "imagem": "img/blog/post29.jpg",
-    "link": "#"
+    "link": "./posts/post29"
   }
 ]
+
 
 
